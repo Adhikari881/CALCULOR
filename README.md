@@ -1,2 +1,2 @@
-# my-first-repository
-this is my first repository ,take it simple.
+# CALCULATOR
+Create your own Python Calculator App using Python and tkinter.
